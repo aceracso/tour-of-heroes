@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "primer-a0": {
+      "hosting": {
+        "tour-of-heroes": [
+          "primer-a0"
+        ]
+      }
+    }
+  }
+}
